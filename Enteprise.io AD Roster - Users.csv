@@ -1,0 +1,11 @@
+First Name,Last Name,Login Name,Uniform Color OU,"Job Title ""Rank""",Department,Manager,DomainUsers,EnterpriseAdmin,DomainAdmin,BridgeSquad,DisposableUnits,1WayMission,5YearMission
+Christopher,Pike,cpike,GOLD,ADM,COMMAND,,YES,YES,YES,YES,NO,YES,YES
+James,Kirk,jkirk,GOLD,CAPT,COMMAND,cpike,YES,NO,YES,YES,NO,YES,YES
+Spock,Spock,spock,BLUE,CMDR,SCIENCE,jkirk,YES,NO,NO,YES,NO,YES,YES
+Montgomery,Scott,mscott,RED,CMDR,ENG,jkirk,YES,NO,NO,NO,NO,NO,YES
+Nyota,Uhura,nuhura,RED,LT,COMMUNICATIONS,jkirk,YES,NO,NO,YES,NO,NO,YES
+Pavel,Chekov,pchekov,GOLD,ESN,COMMAND,spock,YES,NO,NO,YES,NO,NO,YES
+Bob,Belcher,bbelcher,RED,CPO,SECURITY,mscott,YES,NO,NO,NO,YES,NO,YES
+Gene,Belcher,gbelcher,RED,CRW,ENG,bbelcher,YES,NO,NO,NO,YES,NO,YES
+Linda,Belcher,lbelcher,GOLD,CAPT,SECURITY,cpike,YES,YES,NO,NO,NO,NO,YES
+Kahn,Singh,ksingh,Users,CRW,COMMUNICATIONS,bbelcher,YES,NO,YES,NO,YES,NO,YES

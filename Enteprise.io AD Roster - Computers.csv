@@ -1,0 +1,6 @@
+Computer OU Location,DomainComputers,BridgeSquad,DisposableUnits
+BRIDGE,YES,YES,NO
+2_GUEST,YES,YES,YES
+3_ENG,YES,YES,NO
+4_TRANSPORTER,YES,YES,NO
+5_CREW,YES,NO,YES
