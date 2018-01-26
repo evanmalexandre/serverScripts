@@ -1,3 +1,5 @@
+Import-Module ActiveDirectory
+
 # Initialize domain path
 $domain_cn = "dc=westeros,dc=net"
 
